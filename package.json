@@ -1,0 +1,13 @@
+{
+  "name": "ensure-slash",
+  "version": "0.0.0",
+  "description": "Ensure your string ends with a slash",
+  "keywords": [
+    "ensure",
+    "slash",
+    "string",
+    "trailing"
+  ],
+  "repository": "sonicdoe/ensure-slash",
+  "author": "Jakob Krigovsky <jakob@krigovsky.com>"
+}
