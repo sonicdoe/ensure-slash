@@ -11,6 +11,9 @@
   "license": "0BSD",
   "repository": "sonicdoe/ensure-slash",
   "author": "Jakob Krigovsky <jakob@krigovsky.com>",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "standard && ava"
   },
