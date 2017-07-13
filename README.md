@@ -1,4 +1,4 @@
-# ensure-slash
+# ensure-slash [![Build Status](https://img.shields.io/travis/sonicdoe/ensure-slash.svg)](https://travis-ci.org/sonicdoe/ensure-slash)
 
 > Ensure your string ends with a slash
 
