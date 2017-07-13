@@ -8,6 +8,7 @@
     "string",
     "trailing"
   ],
+  "license": "0BSD",
   "repository": "sonicdoe/ensure-slash",
   "author": "Jakob Krigovsky <jakob@krigovsky.com>"
 }
