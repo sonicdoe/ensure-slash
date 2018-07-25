@@ -22,7 +22,7 @@ ensureSlash('/home/bar/')
 
 ## Changelog
 
-This project follows [Semantic Versioning 2](http://semver.org/).
+This project follows [Semantic Versioning 2](https://semver.org).
 
 - v1.0.0 (2017-08-19): Fully commit to Semantic Versioning
 - v0.1.0 (2017-07-13): Initial release
